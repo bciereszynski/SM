@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="styled_text" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/p_orange</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:layout_centerInParent">true</item>
+        <item name = "android:ellipsize">end</item>
+        <item name = "android:singleLine">true</item>
+    </style>
+</resources>

@@ -1,0 +1,21 @@
+
+J
+java:S3740D"/Provide the parametrized type for this generic.(ÔˆÏŠúÿÿÿÿ
+t
+java:S1450#"^Remove the "categorySpinner" field and declare it as a local variable in the relevant methods.(É¿«©
+v
+java:S1450""[Remove the "doneCheckBox" field and declare it as a local variable in the relevant methods.(§¨âŸýÿÿÿÿ
+s
+java:S1450"XRemove the "nameField" field and declare it as a local variable in the relevant methods.(žâê¸þÿÿÿÿ
+Q
+java:S2696+"6Make the enclosing method "static" or remove this set.(„••òúÿÿÿÿ
+œ
+java:S1186N"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñ¢®Êøÿÿÿÿ
+P
+java:S2209_"5Change this instance-reference to a static reference.(’éí¼þÿÿÿÿ
+P
+java:S2209_"5Change this instance-reference to a static reference.(’éí¼þÿÿÿÿ
+—
+java:S1186c"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(á¬‡Ý
+œ
+java:S1186m"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(×åó«øÿÿÿÿ
