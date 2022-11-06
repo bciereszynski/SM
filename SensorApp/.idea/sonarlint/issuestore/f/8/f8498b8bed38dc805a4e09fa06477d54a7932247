@@ -1,0 +1,15 @@
+
+a
+java:S1192K"FDefine a constant instead of duplicating this literal "ERROR" 3 times.(î…§ýúÿÿÿÿ
+g
+java:S1301‰"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ
+	java:S116$"eRename this field "REQUEST_LOCATION_PERMISION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ«—ˆþÿÿÿÿ
+<
+java:S1170$"!Make this final field static too.(ƒ«—ˆþÿÿÿÿ
+|
+java:S1450+"_Remove the "getAddressButton" field and declare it as a local variable in the relevant methods.(û¯ÀÕ8ï®¯ðÄ0
+{
+java:S1450#"`Remove the "getLocationButton" field and declare it as a local variable in the relevant methods.(Š†ïæøÿÿÿÿ
+h	java:S100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡Ãø½øÿÿÿÿ
+f
+java:S1874†"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(§¢‰Íþÿÿÿÿ

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SensorApp</string>
+    <string name="show_subtitle">Pokaż ilosc</string>
+    <string name="hide_subtitle">Ukryj ilosc</string>
+    <string name="sensors_count">Liczba czujnikow: %d</string>
+
+    <string name="sensor_missing">Brak czujnika</string>
+
+    <string name="light_sensor_label">Czujnik światła: %f</string>
+    <string name="gravity_sensor_label">Czujnik grawitacji: X:%f, Y:%f</string>
+    <string name="location_permission_denied">Dostęp do lokalizacji nieprzyznany</string>
+
+    <string name="location_text">Szerokosc geo: %1$.4f \n Długość geo: %2$.4f \n Czas: %3$tr"</string>
+    <string name="no_location">brak lokalizacji</string>
+    <string name="address_text">Address: %1$s \n  Czas: %2$tr"</string>
+    <string name="service_not_available">Servis nie dostępny</string>
+    <string name="no_address">Brak adresu</string>
+</resources>

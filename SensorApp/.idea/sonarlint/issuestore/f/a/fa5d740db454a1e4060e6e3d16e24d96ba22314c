@@ -1,0 +1,15 @@
+
+g
+java:S1301Ÿ"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ
+|	java:S116"bRename this field "KEY_SUBTITLE_VISABILITY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÕØ¸ýÿÿÿÿ
+v
+java:S1450!"[Remove the "recyclerView" field and declare it as a local variable in the relevant methods.(¿á© ýÿÿÿÿ
+t
+java:S1450"YRemove the "sensorList" field and declare it as a local variable in the relevant methods.(ùò©ºüÿÿÿÿ
+r
+java:S1450"\Remove the "sensorManager" field and declare it as a local variable in the relevant methods.(Þ¬–„
+=
+java:S1125U"'Remove the unnecessary boolean literal.(Öÿ§Ò
+B
+java:S1125]"'Remove the unnecessary boolean literal.(Ç¶“‡ýÿÿÿÿ
+V	java:S125d"<This block of commented-out lines of code should be removed.(ÿøŒÃÿÿÿÿÿ
