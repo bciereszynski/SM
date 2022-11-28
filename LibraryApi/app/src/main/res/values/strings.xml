@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LibraryApi</string>
+    <string name="cover_content_description">Cover_icon</string>
+    <string name="search">Wyszukaj:</string>
+    <string name="clear_search">Wpisz tutaj</string>
+    <string name="fail_message">Proba nieudana</string>
+    <string name="data_missing">Brak danych</string>
+</resources>

@@ -1,0 +1,24 @@
+
+C
+java:S1604G"(Make this anonymous inner class a lambda(²Á«şÿÿÿÿ
+^
+java:S2259["BA "NullPointerException" could be thrown; "data" is nullable here.(ø¥÷U8êñ İÊ0
+d
+java:S2259U"BA "NullPointerException" could be thrown; "data" is nullable here.(”‘ôÕøÿÿÿÿ8ëñ İÊ0
+l
+java:S1450-"VRemove the "binding" field and declare it as a local variable in the relevant methods.(¶ÃÊ
+]	java:S125D"<This block of commented-out lines of code should be removed.(Ş¹…·şÿÿÿÿ8†ò İÊ0
+`
+java:S1874K">Remove this use of "startActivityForResult"; it is deprecated.(ëÖƒ øÿÿÿÿ8‹ò İÊ0
+f
+java:S1874Q"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(¹Î¾8Œò İÊ0
+„
+java:S3252Y"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(½ÑÕ²8ò İÊ0
+„
+java:S3252`"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(½ÑÕ²8ò İÊ0
+‰
+java:S3252d"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(Œ¦ˆüÿÿÿÿ8ò İÊ0
+‰
+java:S3252v"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(Œ¦ˆüÿÿÿÿ8•ò İÊ0
+[
+java:S1874">Remove this use of "startActivityForResult"; it is deprecated.(Ìêò‹8–ò İÊ0

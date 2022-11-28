@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Basic</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+
+    <string name="q_year">Czy rok 2022 jest przestepny?</string>
+    <string name="q_day">Czy dzień ma 25 godzin?</string>
+    <string name="q_food">Czy można jeść surowe mięso kurczaka?</string>
+    <string name="q_person">Czy Robert Lewandowski jest polakiem?</string>
+    <string name="q_pizza">Czy pizza pochodzi z Ameryki?</string>
+
+    <string name="correct_answer">Dobrze!</string>
+    <string name="incorrect_answer">Zła odpowiedź!</string>
+</resources>

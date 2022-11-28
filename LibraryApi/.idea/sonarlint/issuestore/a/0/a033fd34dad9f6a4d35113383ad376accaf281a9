@@ -1,0 +1,16 @@
+
+|
+java:S1450"aRemove the "bookAuthorTextView" field and declare it as a local variable in the relevant methods.(à•’þýÿÿÿÿ
+n
+java:S1450"XRemove the "bookCover" field and declare it as a local variable in the relevant methods.(Øƒòþ
+†
+java:S1450"kRemove the "bookFirstPublishYearTextView" field and declare it as a local variable in the relevant methods.(žÑ†êûÿÿÿÿ
+
+java:S1450"dRemove the "bookLanguagesTextView" field and declare it as a local variable in the relevant methods.(×œŠ¥ùÿÿÿÿ
+x
+java:S1450"bRemove the "bookPersonsTextView" field and declare it as a local variable in the relevant methods.(àü½ö
+v
+java:S1450"`Remove the "bookTimesTextView" field and declare it as a local variable in the relevant methods.(«ÎÄ¥
+v
+java:S1450"`Remove the "bookTitleTextView" field and declare it as a local variable in the relevant methods.(Ò„µê
+>	java:S108+")Either remove or fill this block of code.(…‰”Ï
